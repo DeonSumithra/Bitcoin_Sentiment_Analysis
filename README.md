@@ -76,7 +76,7 @@ Market Sentiment Insights
 
 | File                                               | Description                 |
 | -------------------------------------------------- | --------------------------- |
-| 📓 `Corrected_Bitcoin_Sentiment_Analysis.ipynb`    | Main analysis notebook      |
+| 📓 `Bitcoin_Sentiment_Analysis.ipynb`    | Main analysis notebook      |
 | 📄 `Bitcoin_Sentiment_Trader_Analysis_Report.docx` | Final analytical report     |
 | 📽️ `Bitcoin_Sentiment_Analysis_Presentation.pptx` | Project presentation slides |
 
